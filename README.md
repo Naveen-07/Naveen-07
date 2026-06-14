@@ -1,5 +1,5 @@
 ## Hellow Amigo's 👋
-### I'm Naveen Kumar, a Senior Software Developer from India...
+### I'm Naveen Kumar, a Senior Full Stack Developer from India...
 ### Welcome to @Naveen-07
 
 <img src="https://komarev.com/ghpvc/?username=Naveen-07&style=flat-square&color=blue" alt=""/>
@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-#### Working in Principal Global Services as a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+#### Working in Principal Global Services as a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 ##### I’m currently learning: AWS 
 ##### 💬 Ask me about : anything
 #### 📫 How to reach me: naveennani0711@gmail.com                      
